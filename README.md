@@ -1,36 +1,117 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Daahir Ceydid</h1>
-<h3 align="center">Full-Stack Web Developer & AI/Data Enthusiast based in Somalia 🇸🇴</h3>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=052e16&height=220&section=header&text=DAAHIR%20CEYDID&fontSize=42&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descSize=16&descAlignY=62" width="100%" />
 
-- 🔭 I’m currently working on **Full-Stack Web Applications & POS Systems**
-- 🌱 I’m currently learning **Python, Data Analysis & Power BI**
-- 👯 I’m looking to collaborate on **Open Source & Web Development Projects**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, MySQL & Linux**
-- 📫 How to reach me: **ddaahir265**
+### Thoughtful interfaces. Reliable backends. Practical software.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/ddaahir265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ddaahir265" height="30" width="40" /></a>
+I build modern web applications with MongoDB, Express.js, React, Node.js, and Python.
+
+<br/>
+
+<!-- Badges / Buttons -->
+<a href="https://github.com/ddaahir265">
+  <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/LET'S%20TALK-0F172A?style=for-the-badge&logo=matrix&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**MOGADISHU, SOMALIA &nbsp;|&nbsp; AVAILABLE FOR PROJECT INQUIRIES**
+
+---
+
+</div>
+
+<br/>
+
+<!-- Modern Card Section -->
+<table align="center" width="100%">
+<tr>
+<td width="70%" valign="top">
+
+#### THE DEVELOPER BEHIND THE CODE
+
+# Turning ideas into useful applications.
+
+I'm a **Full-Stack Developer** focused on practical, maintainable web applications. My work spans responsive interfaces, REST APIs, database architectures, and data analysis using Python, Excel, and Power BI.
+
+I care about clear user workflows, reliable software solutions, and continuous technical growth.
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<br/>
+
+<!-- Profile Avatar -->
+<img src="https://github.com/ddaahir265.png" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #10b981;" alt="Daahir Ceydid"/>
+
+<br/><br/>
+
+**Daahir Ceydid**  
+*Mogadishu, Somalia* 🇸🇴
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### 🛠️ Core Skills & Technologies
+
+<table align="center" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/><br/>
+      <b>Frontend</b><br/>
+      <sub>React, Tailwind, JS</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" /><br/><br/>
+      <b>Backend</b><br/>
+      <sub>Node.js, Express, DB</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=python,vscode" /><br/><br/>
+      <b>Data & AI</b><br/>
+      <sub>Python, Excel, Power BI</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,linux" /><br/><br/>
+      <b>Tools</b><br/>
+      <sub>Git, Docker, Linux</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&icon_color=10b981" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddaahir265&theme=tokyonight&hide_border=true&background=0D1117&fire=10b981&ring=10b981" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&locale=en" alt="ddaahir265" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&hide_border=true" alt="ddaahir265" /></p>
+<div align="center">
+
+🤝 **Hadii aad GitHub isticmaasho, follow dheh eng ➕🥰**
+
+🚀 *Keep Learning • Keep Building • Keep Growing*
+
+</div>
