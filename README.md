@@ -1,57 +1,24 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=052e16&height=220&section=header&text=DAAHIR%20CEYDID&fontSize=42&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descSize=16&descAlignY=62" width="100%" />
-
-### Thoughtful interfaces. Reliable backends. Practical software.
-
-I build modern web applications with MongoDB, Express.js, React, Node.js, and Python.
+<!-- Banner-ka Sare -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=DAAHIR%20MOHAMED&fontSize=42&fontColor=10b981&desc=FULL%20STACK%20MERN%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descSize=15&descAlignY=62" width="100%" alt="Daahir Mohamed Banner" />
 
 <br/>
 
-<!-- Badges / Buttons -->
+<!-- Badhaashka iyo Xiriirinta Tooska ah -->
 <a href="https://github.com/ddaahir265">
-  <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/LET'S%20TALK-0F172A?style=for-the-badge&logo=matrix&logoColor=white" />
+<a href="mailto:contact@example.com">
+  <img src="https://img.shields.io/badge/LET'S%20TALK-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Badge" />
 </a>
 
 <br/><br/>
 
-**MOGADISHU, SOMALIA &nbsp;|&nbsp; AVAILABLE FOR PROJECT INQUIRIES**
-
----
-
-</div>
-<div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=220&section=header&text=DAAHIR%20MOHAMED&fontSize=42&fontColor=ffffff&desc=FULL%20STACK%20MERN%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descSize=15&descAlignY=62" width="100%" />
-
-### ⚡ Thoughtful interfaces. Reliable backends. Practical software.
-
-I build modern web applications with MongoDB, Express.js, React, Node.js, and Python.
-
-<br/>
-
-<!-- Badges / Links -->
-<a href="https://github.com/ddaahir265">
-  <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/LET'S%20TALK-0F172A?style=for-the-badge&logo=matrix&logoColor=white" />
-</a>
-
-<br/><br/>
-
-📍 **MOGADISHU, SOMALIA &nbsp;|&nbsp; 🟢 AVAILABLE FOR PROJECT INQUIRIES**
+📍 **MOGADISHU, SOMALIA &nbsp;|&nbsp; 🟢 AVAILABLE FOR FREELANCE & FULL-TIME ROLES**
 
 </div>
 
@@ -59,31 +26,33 @@ I build modern web applications with MongoDB, Express.js, React, Node.js, and Py
 <hr/>
 <br/>
 
-<!-- About Me Section -->
+<!-- Qeybta Sifaynta Fanaanka/Injineerka -->
 <table align="center" width="100%" border="0">
 <tr>
 <td width="65%" valign="top">
 
-### 👨‍💻 ABOUT ME
+### 👨‍💻 WAA KUMA DAAHIR MOHAMED?
 
-# Turning ideas into powerful applications.
+Waxaan ahay **Full-Stack MERN Developer** oo xamaasad u qaba dhisida software-ro casri ah, xawaare sare leh, kana jawaaba baahiyaha dhabta ah ee ganacsiga iyo isticmaalayaasha. 
 
-I'm **Daahir Mohamed**, a passionate **Full-Stack MERN Developer** focused on building practical, scalable, and maintainable web applications. 
+Falsafadayda shaqo waxay ku dhisan tahay dhisida habab si fudud loo maamuli karo (maintainable architecture), interface-yo bilic u gooni ah oo isticmaalkoodu sahlan yahay (user-friendly UI), iyo meel ka baxsan xogta oo ammaan ah (secure APIs & backend).
 
-* 🌐 **Frontend:** Building interactive & responsive UIs using React and Tailwind CSS.
-* ⚙️ **Backend:** Designing REST APIs & database architectures with Node.js, Express, and MongoDB.
-* 📊 **Data Analysis:** Extracting insights using Python, Excel, and Power BI.
+#### 🎯 Habka Shagayntayda & Qiyamka:
+- **Clean Code & Best Practices:** Qoraalka koodh habaysan oo si mudo dheer ah loo baari karo lana ballaarin karo.
+- **Problem Solving:** Xallinta dhibaatooyinka adag ee dhanka koodha iyo xogta annagoo adeegsanayna hababka ugu waxtarka badan.
+- **Data-Driven Approach:** Isku xirka software-ka iyo falanqaynta xogta si go'aanno hufan loo gaaro.
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<!-- Avatar Profile -->
-<img src="https://github.com/ddaahir265.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #10b981;" alt="Daahir Mohamed"/>
+<!-- Profilka / Sawirka -->
+<img src="https://github.com/ddaahir265.png" width="170" height="170" style="border-radius: 50%; object-fit: cover; border: 4px solid #10b981;" alt="Daahir Mohamed Profile" />
 
 <br/><br/>
 
 **Daahir Mohamed**  
-*Mogadishu, Somalia* 🇸🇴
+*Full Stack Developer*  
+Muqdisho, Soomaaliya 🇸🇴
 
 </td>
 </tr>
@@ -93,34 +62,34 @@ I'm **Daahir Mohamed**, a passionate **Full-Stack MERN Developer** focused on bu
 <hr/>
 <br/>
 
-<!-- Tech Stack -->
+<!-- Qeybta Aqoonta iyo Farsamooyinka -->
 <div align="center">
 
-### 🛠️ CORE SKILLS & TECHNOLOGIES
+### 🛠️ FARSAMOOYINKA IYO AGABKA AAN ISTICMAALO
 
 <br/>
 
 <table align="center" width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/><br/>
-      <b>Frontend</b><br/>
-      <sub>React, Tailwind, JS, HTML/CSS</sub>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Icons" /><br/><br/>
+      <b>Frontend Web</b><br/>
+      <sub>React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Responsive Web Design</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" /><br/><br/>
-      <b>Backend</b><br/>
-      <sub>Node.js, Express, MongoDB, MySQL</sub>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" alt="Backend Icons" /><br/><br/>
+      <b>Backend & Databases</b><br/>
+      <sub>Node.js, Express.js, MongoDB, RESTful APIs, MySQL, PHP</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=python,vscode" /><br/><br/>
-      <b>Data & Analytics</b><br/>
-      <sub>Python, Power BI, Excel</sub>
+      <img src="https://skillicons.dev/icons?i=python,vscode" alt="Data Icons" /><br/><br/>
+      <b>Data Analytics & AI</b><br/>
+      <sub>Python, Data Analysis, Power BI, Advanced Excel</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,linux" /><br/><br/>
-      <b>Tools & Workflow</b><br/>
-      <sub>Git, GitHub, Postman, Linux</sub>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,linux" alt="Tools Icons" /><br/><br/>
+      <b>Tools & Platforms</b><br/>
+      <sub>Git, GitHub, Postman, Linux, VS Code</sub>
     </td>
   </tr>
 </table>
@@ -131,115 +100,40 @@ I'm **Daahir Mohamed**, a passionate **Full-Stack MERN Developer** focused on bu
 <hr/>
 <br/>
 
-<!-- GitHub Stats -->
-<div align="center">
+<!-- Qeybta Mashaariicda iyo Khibradaha (Dheeraadka ah) -->
+### 🚀 WAXA AAN AADKA UGU FOGAHAY (AREAS OF EXPERTISE)
 
-### 📊 GITHUB METRICS & ANALYTICS
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&icon_color=10b981" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddaahir265&theme=tokyonight&hide_border=true&background=0D1117&fire=10b981&ring=10b981" />
-</p>
+1. **Full-Stack Web Development:** Dhisida codsiyo shabakadeed oo buuxa laga soo bilaabo naqshadaynta UI illaa database-ka iyo server-ka (MERN Stack).
+2. **API Design & Integration:** Sameynta iyo isku xirka REST APIs ammaan ah oo xawaare sare ku shaqeeya.
+3. **Data Analysis & Visualization:** Falanqaynta xogta adag iyadoo loo beddelayo warbixino iyo dashboard-yada muuqda ee Power BI iyo Python.
 
 <br/>
 <hr/>
 <br/>
 
-🤝 **Haddii aad GitHub isticmaasho, follow dheh Eng ➕🥰**
-
-🚀 *Keep Learning • Keep Building • Keep Growing*
-
-</div>
-<br/>
-
-<!-- Modern Card Section -->
-<table align="center" width="100%">
-<tr>
-<td width="70%" valign="top">
-
-#### THE DEVELOPER BEHIND THE CODE
-
-# Turning ideas into useful applications.
-
-I'm a **Full-Stack Developer** focused on practical, maintainable web applications. My work spans responsive interfaces, REST APIs, database architectures, and data analysis using Python, Excel, and Power BI.
-I care about clear user workflows, reliable software solutions, and continuous technical growth.
-
-
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-<br/>
-
-<!-- Profile Avatar -->
-<img src="https://github.com/ddaahir265.png" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #10b981;" alt="Daahir Ceydid"/>
-
-<br/><br/>
-
-**Daahir Ceydid**  
-*Mogadishu, Somalia* 🇸🇴
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-### 🛠️ Core Skills & Technologies
-
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/><br/>
-      <b>Frontend</b><br/>
-      <sub>React, Tailwind, JS</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" /><br/><br/>
-      <b>Backend</b><br/>
-      <sub>Node.js, Express, DB</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=python,vscode" /><br/><br/>
-      <b>Data & AI</b><br/>
-      <sub>Python, Excel, Power BI</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,linux" /><br/><br/>
-      <b>Tools</b><br/>
-      <sub>Git, Docker, Linux</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&icon_color=10b981" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddaahir265&theme=tokyonight&hide_border=true&background=0D1117&fire=10b981&ring=10b981" />
-</p>
-
----
-
+<!-- Qeybta Tirakoobka GitHub -->
 <div align="center">
 
-🤝 **Hadii aad GitHub isticmaasho, follow dheh eng ➕🥰**
+### 📊 TIRA-KOOBKA IYO SHAQADA GITHUB
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&icon_color=10b981" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddaahir265&theme=tokyonight&hide_border=true&background=0D1117&fire=10b981&ring=10b981" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+🤝 **Haddii aad GitHub isticmaasho, fadlan ku soo qoosh oo iga bix follow ➕🥰**
 
 🚀 *Keep Learning • Keep Building • Keep Growing*
 
