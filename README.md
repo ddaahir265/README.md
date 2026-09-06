@@ -1,135 +1,36 @@
-<div align="center">
 
-<!-- Main Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0d1117&amp;height=180&amp;section=header&amp;text=DAAHIR%20%7C%20FULL-STACK%20DEVELOPER%20%26%20DATA%20ENTHUSIAST&amp;fontSize=24&amp;fontColor=38bdf8&amp;desc=Based%20in%20Mogadishu,%20Somalia%20%F0%9F%87%B8%F0%9F%87%B2&amp;descSize=14&amp;descAlignY=68&amp;descColor=94a3b8" width="100%" />
+<h1 align="center">Hi 👋, I'm Daahir Ceydid</h1>
+<h3 align="center">Full-Stack Web Developer & AI/Data Enthusiast based in Somalia 🇸🇴</h3>
 
-<p align="center">
-  <i>Crafting innovative web solutions through clean code and intelligent data-driven insights.</i>
+- 🔭 I’m currently working on **Full-Stack Web Applications & POS Systems**
+- 🌱 I’m currently learning **Python, Data Analysis & Power BI**
+- 👯 I’m looking to collaborate on **Open Source & Web Development Projects**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, MySQL & Linux**
+- 📫 How to reach me: **ddaahir265**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/ddaahir265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ddaahir265" height="30" width="40" /></a>
 </p>
 
-<!-- Social Links / Badges -->
-<p align="center">
-  <a href="https://github.com/ddaahir265">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&locale=en" alt="ddaahir265" /></p>
 
-<br/>
-
-<!-- Tech Stack Grid Section -->
-### 🛠️ Core Skills & Tech Stack
-
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/><br/>
-      <b>Frontend</b><br/>
-      <sub>React, Tailwind, JS</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" /><br/><br/>
-      <b>Backend</b><br/>
-      <sub>Node.js, Express, DB</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=python,vscode" /><br/><br/>
-      <b>Data &amp; AI</b><br/>
-      <sub>Python, Excel, Power BI</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,linux" /><br/><br/>
-      <b>Tools</b><br/>
-      <sub>Git, Docker, Linux</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Profile & About Section -->
-<table align="center" width="100%">
-<tr>
-<td width="30%" align="center" valign="middle">
-
-<img src="https://github.com/ddaahir265.png" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #38bdf8;" alt="Daahir Ceydid"/>
-
-<br/><br/>
-
-**Daahir Ceydid**  
-*Mogadishu, Somalia* 🇸🇴
-
-</td>
-<td width="70%" valign="top">
-
-### 💡 Building the Future of Tech
-
-I believe in **elegant design** and **data-driven decisions**.
-
-* 🚀 **User-centric development:** Crafting responsive interfaces focused on seamless user experiences.
-* ⚙️ **Scalable systems:** Building reliable backends, REST APIs, and database structures.
-* 📈 **Data Analytics:** Transforming raw metrics into visual insights using Python, Excel, and Power BI.
-* 🧠 **Continuous Learning:** Always mastering new algorithms, operating system concepts, and cloud tools.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=38bdf8&amp;icon_color=38bdf8" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=38bdf8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddaahir265&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;fire=38bdf8&amp;ring=38bdf8" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🛒 Web POS &amp; Inventory</h4>
-      <p>A modern point of sale system with full stock tracking and sales analysis.</p>
-      <p><b>Tech Stack:</b> <code>PHP</code> <code>MySQL</code> <code>Tailwind</code></p>
-      <a href="https://github.com/ddaahir265"><b>View Repository »</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📊 Data Analysis Dashboard</h4>
-      <p>Visualizing business trends and metrics using interactive reporting tools.</p>
-      <p><b>Tech Stack:</b> <code>Python</code> <code>Power BI</code> <code>Excel</code></p>
-      <a href="https://github.com/ddaahir265"><b>View Repository »</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚡ Full-Stack Web App</h4>
-      <p>Scalable web application integrated with RESTful APIs and modern backend.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
-      <a href="https://github.com/ddaahir265"><b>View Repository »</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-🤝 **Hadii aad GitHub isticmaasho, follow dheh eng ➕🥰**
-
-🚀 *Keep Learning • Keep Building • Keep Growing*
-
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&hide_border=true" alt="ddaahir265" /></p>
