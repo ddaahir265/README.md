@@ -105,21 +105,7 @@ I care about clear user workflows, reliable software solutions, and continuous t
 <hr/>
 <br/>
 
-<!-- BOGGA 4: GITHUB ACTIVITY IYO FOOTER -->
-<div align="center">
 
-### 📊 GitHub Activity
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&icon_color=10b981" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddaahir265&theme=tokyonight&hide_border=true&background=0D1117&fire=10b981&ring=10b981" alt="GitHub Streak" />
-</p>
 
 <br/>
 
@@ -127,7 +113,6 @@ I care about clear user workflows, reliable software solutions, and continuous t
 
 <br/>
 
-🤝 **Hadii aad GitHub isticmaasho, follow dheh eng ➕🥰**
 
 🚀 *Keep Learning • Keep Building • Keep Growing*
 
