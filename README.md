@@ -1,26 +1,30 @@
-<!-- BOGGA 1: QAABKA SARE, ASTAAMAHA IYO SHIRKADDA / PROFILE OVERVIEW -->
+<!-- BOGGA 1: BANNER-KA SARE IYO INFORMATION-KA KOOBAN -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=250&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEMS%20ARCHITECT%20%7C%20DATA%20ANALYST&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=052e16&height=250&section=header&text=DAAHIR%20CEYDID&fontSize=50&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descSize=16&descAlignY=62" width="100%" alt="Daahir Ceydid Header" />
 
   <br/>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  <a href="https://github.com/ddaahir265">
+    <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LOCATION-GLOBAL_REMOTE-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/EXPERIENCE-FULL_STACK-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/LET'S%20TALK-0F172A?style=for-the-badge&logo=matrix&logoColor=white" alt="Contact Badge" />
   </a>
 
   <br/><br/>
 
-  <h3>✨ Building High-Performance Web Applications & Scalable Distributed Systems ✨</h3>
+  <h3>✨ Thoughtful interfaces. Reliable backends. Practical software. ✨</h3>
 
   <p>
-    Welcome to my GitHub profile! I am a passionate Software Engineer dedicated to solving complex real-world problems through clean code, modern web architecture, and efficient data solutions.
+    I build modern web applications with MongoDB, Express.js, React, Node.js, and Python.
+  </p>
+
+  <p>
+    📍 <b>MOGADISHU, SOMALIA &nbsp;|&nbsp; 🟢 AVAILABLE FOR PROJECT INQUIRIES</b>
   </p>
 
 </div>
@@ -29,27 +33,102 @@
 <hr/>
 <br/>
 
-<!-- BOGGA 2: FAHFAAHINTA PROFILE-KA, FALSAFADDA IYO WAXA AAN TARTAMO -->
+<!-- BOGGA 2: THE DEVELOPER BEHIND THE CODE -->
 <table align="center" width="100%" border="0">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### 👨‍💻 ABOUT ME & VISION
+#### THE DEVELOPER BEHIND THE CODE
 
-I am a Full-Stack Engineer focused on designing, building, and deploying modern web applications that provide seamless user experiences and robust backend performance.
+# Turning ideas into useful applications.
 
-#### 💡 Core Philosophy:
-* **Scalability First:** Designing system architectures capable of handling heavy traffic and complex database operations cleanly.
-* **Clean Code Practices:** Writing testable, modular, and self-documenting code using modern industry standards.
-* **Continuous Growth:** Always learning new tools, frameworks, and methodologies to stay ahead in the tech landscape.
+I'm a **Full-Stack Developer** focused on practical, maintainable web applications. My work spans responsive interfaces, REST APIs, database architectures, and data analysis using Python, Excel, and Power BI.
 
-#### 🎯 Primary Focus Areas:
-* Modern Single Page Applications (SPAs) & Server-Side Rendering (SSR).
-* RESTful & GraphQL API Architecture design.
-* Cloud deployments, CI/CD pipelines, and Containerization.
-* Data analytics, ETL processes, and automated insights.
+I care about clear user workflows, reliable software solutions, and continuous technical growth.
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="35%" align="center" valign="middle">
 
+<br/>
+
+<!-- Profile Avatar -->
+<img src="https://github.com/ddaahir265.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #10b981;" alt="Daahir Ceydid Profile"/>
+
+<br/><br/>
+
+**Daahir Ceydid**  
+*Mogadishu, Somalia 🇸🇴*
+
+</td>
+</tr>
+</table>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- BOGGA 3: CORE SKILLS & TECHNOLOGIES -->
 <div align="center">
+
+### 🛠️ Core Skills & Technologies
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Icons" /><br/><br/>
+      <b>Frontend</b><br/>
+      <sub>React, Tailwind, JS</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" alt="Backend Icons" /><br/><br/>
+      <b>Backend</b><br/>
+      <sub>Node.js, Express, DB</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=python,vscode" alt="Data Icons" /><br/><br/>
+      <b>Data & AI</b><br/>
+      <sub>Python, Excel, Power BI</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,linux" alt="Tools Icons" /><br/><br/>
+      <b>Tools</b><br/>
+      <sub>Git, Docker, Linux</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- BOGGA 4: GITHUB ACTIVITY IYO FOOTER -->
+<div align="center">
+
+### 📊 GitHub Activity
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&theme=tokyonight&hide_border=true&title_color=10b981&icon_color=10b981" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddaahir265&theme=tokyonight&hide_border=true&background=0D1117&fire=10b981&ring=10b981" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+🤝 **Hadii aad GitHub isticmaasho, follow dheh eng ➕🥰**
+
+🚀 *Keep Learning • Keep Building • Keep Growing*
+
+</div>
