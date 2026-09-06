@@ -1,66 +1,135 @@
-👋 Hi, I’m Daaahir
+<div align="center">
 
-💻 Full-Stack Developer | 🤖 AI & Data Analist | 🇸🇴 Somalia
+<!-- Main Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=DAAHIR%20%7C%20FULL-STACK%20DEVELOPER%20%26%20DATA%20ENTHUSIAST&fontSize=24&fontColor=38bdf8&desc=Based%20in%20Mogadishu,%20Somalia%20%F0%9F%87%B8%F0%9F%87%B2&descSize=14&descAlignY=68&descColor=94a3b8" width="100%" />
 
-I’m a passionate developer who enjoys building modern web applications, learning new technologies, and turning ideas into practical solutions.
+<p align="center">
+  <i>Crafting innovative web solutions through clean code and intelligent data-driven insights.</i>
+</p>
 
-⸻
+<!-- Social Links / Badges -->
+<p align="center">
+  <a href="https://github.com/ddaahir265">
+    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-🚀 About Me
+</div>
 
-* 💻 Full-Stack Web Developer
-* 🌱 Currently learning Python, Excel & Power BI
-* ⚛️ Interested in modern frontend and backend development
-* 🧠 Always learning and improving my technical skills
-* 🤝 Open to collaboration and new opportunities
-* 🇸🇴 Based in Somalia
+<br/>
 
-⸻
+<!-- Tech Stack Grid Section -->
+### 🛠️ Core Skills & Tech Stack
 
-🛠️ Skills & Technologies
+<table align="center" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/><br/>
+      <b>Frontend</b><br/>
+      <sub>React, Tailwind, JS</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" /><br/><br/>
+      <b>Backend</b><br/>
+      <sub>Node.js, Express, DB</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=python,vscode" /><br/><br/>
+      <b>Data & AI</b><br/>
+      <sub>Python, Excel, Power BI</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,linux" /><br/><br/>
+      <b>Tools</b><br/>
+      <sub>Git, Docker, Linux</sub>
+    </td>
+  </tr>
+</table>
 
-🎨 Frontend
+<br/>
 
-HTML · CSS · JavaScript · React 
+<!-- Profile & About Section -->
+<table align="center" width="100%">
+<tr>
+<td width="30%" align="center" valign="middle">
 
-⚙️ Backend & Database
+<img src="https://github.com/ddaahir265.png" width="150" style="border-radius: 50%; border: 2px solid #38bdf8;" alt="Daahir Ceydid"/>
 
-Node.js · Express.js · MongoDB . php
+<br/><br/>
 
-🧰 Development Tools
+**Daahir Ceydid**  
+*Mogadishu, Somalia* 🇸🇴
 
-Git · GitHub · Postman · VS Code
+</td>
+<td width="70%" valign="top">
 
-🤖 AI & Data — Learning
+### 💡 Building the Future of Tech
 
-Python · Excel · Power BI
+I believe in **elegant design** and **data-driven decisions**.
 
-⸻
+* 🚀 **User-centric development:** Crafting responsive interfaces focused on seamless user experiences.
+* ⚙️ **Scalable systems:** Building reliable backends, REST APIs, and database structures.
+* 📈 **Data Analytics:** Transforming raw metrics into visual insights using Python, Excel, and Power BI.
+* 🧠 **Continuous Learning:** Always mastering new algorithms, operating system concepts, and cloud tools.
 
-📌 Featured Projects
+</td>
+</tr>
+</table>
 
-I’m continuously building and improving projects using modern web technologies.
+<br/>
 
-🔹 Frontend Projects — HTML, CSS, JavaScript, React 
-🔹 Backend Projects — Node.js, Express.js & MongoDB
-🔹 Data & AI Learning — Python, Excel & Power BI
+---
 
-👉 Check out my repositories to see what I’m building.
+### 📊 GitHub Analytics
 
-⸻
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddaahir265&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaahir265&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" height="165"/>
+</p>
 
-📫 Connect With Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddaahir265&theme=tokyonight&hide_border=true&background=0D1117&fire=38bdf8&ring=38bdf8" />
+</p>
 
-🐙 GitHub: @ddaahir265
+---
 
-⸻
+### 📌 Featured Projects
 
-🤝 Support Me
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🛒 Web POS & Inventory</h4>
+      <p>A modern point of sale system with full stock tracking and sales analysis.</p>
+      <p><b>Tech Stack:</b> <code>PHP</code> <code>MySQL</code> <code>Tailwind</code></p>
+      <a href="https://github.com/ddaahir265"><b>View Repository »</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 Data Analysis Dashboard</h4>
+      <p>Visualizing business trends and metrics using interactive reporting tools.</p>
+      <p><b>Tech Stack:</b> <code>Python</code> <code>Power BI</code> <code>Excel</code></p>
+      <a href="https://github.com/ddaahir265"><b>View Repository »</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Full-Stack Web App</h4>
+      <p>Scalable web application integrated with RESTful APIs and modern backend.</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
+      <a href="https://github.com/ddaahir265"><b>View Repository »</b></a>
+    </td>
+  </tr>
+</table>
 
-Hadii aad GitHub isticmaasho, follow dheh eng 
+<br/>
 
-⭐ Feel free to follow me and check out my repositories!
+<div align="center">
 
-⸻
+🤝 **Hadii aad GitHub isticmaasho, follow dheh eng ➕🥰**
 
-🚀 Keep Learning • Keep Building • Keep Growing
+🚀 *Keep Learning • Keep Building • Keep Growing*
+
+</div>
