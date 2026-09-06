@@ -59,7 +59,8 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://github.com/ddaahir265.png" width="150" style="border-radius: 50%; border: 2px solid #38bdf8;" alt="Daahir Ceydid"/>
+<!-- SAWIRKAAGA CUSUB (Geli profile.jpg ama adeegso link-ga GitHub Avatar) -->
+<img src="./profile.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #38bdf8;" alt="Daahir Ceydid"/>
 
 <br/><br/>
 
